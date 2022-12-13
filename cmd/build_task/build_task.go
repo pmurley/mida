@@ -1,5 +1,7 @@
 package build_task
 
+import "mida/cmd/client"
+
 func BuildTask() int {
-	return 0
+	return client.Client()
 }
