@@ -1,2 +1,2 @@
-# mida
-MIDA: A Tool for Measuring the Web
+# MIDA: A Tool for Measuring the Web
+
